@@ -1,0 +1,10 @@
+/node_modules
+bundle.js
+npm-debug.log
+/dist
+# IntelliJ
+*.iml
+/.idea
+public/img/
+public/node_modules/popper.js/.tmp/
+public/node_modules
